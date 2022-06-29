@@ -4,4 +4,4 @@ I am Daniel. I like technology; web-related development, to be more specific. I 
 
 I used java, python, node, typescript, go, React, Angular, and many more technologies to build fully-featured full-stack applications. As a full-stack dev, I also gained experience designing accessible and visually pleasing UI/UX experiences.
 
-I am currently looking for work so ...
+Feel free to connect on [linkedin](https://www.linkedin.com/in/komlankodoh) ! please ?
